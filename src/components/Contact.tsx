@@ -47,7 +47,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Addresses",
-      details: ["info@engitech.com", "projects@engitech.com", "support@engitech.com"]
+      details: ["info@eliteservice.co.in", "projects@engitech.com", "support@engitech.com"]
     },
     {
       icon: Clock,

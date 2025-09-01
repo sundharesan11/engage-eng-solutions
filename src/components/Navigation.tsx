@@ -20,7 +20,7 @@ const Navigation = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-2xl font-bold text-primary font-heading">
-              EngiTech Solutions
+              Elite Services
             </h1>
           </div>
 
@@ -43,7 +43,7 @@ const Navigation = () => {
           <div className="hidden md:flex items-center space-x-4">
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
               <Phone className="h-4 w-4" />
-              <span>+1 (555) 123-4567</span>
+              <span>+91 9994814385</span>
             </div>
             <Button variant="cta" size="sm">
               Get Quote
@@ -79,11 +79,11 @@ const Navigation = () => {
               <div className="border-t border-border pt-4 mt-4">
                 <div className="flex items-center space-x-2 px-3 py-2 text-sm text-muted-foreground">
                   <Phone className="h-4 w-4" />
-                  <span>+1 (555) 123-4567</span>
+                  <span>+91 9994814385</span>
                 </div>
                 <div className="flex items-center space-x-2 px-3 py-2 text-sm text-muted-foreground">
                   <Mail className="h-4 w-4" />
-                  <span>info@engitech.com</span>
+                  <span>info@eliteservice.co.in</span>
                 </div>
                 <div className="px-3 py-2">
                   <Button variant="cta" className="w-full">

@@ -48,7 +48,7 @@ const About = () => {
         {/* Section Header */}
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4 font-heading">
-            About EngiTech Solutions
+            About Elite Services
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Leading the industry with innovative engineering solutions, certified processes, and unwavering commitment to excellence.

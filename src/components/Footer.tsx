@@ -113,10 +113,10 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-accent flex-shrink-0" />
                 <a 
-                  href="mailto:info@engitech.com" 
+                  href="mailto:info@eliteservice.co.in" 
                   className="text-primary-foreground/80 hover:text-accent transition-colors duration-300 text-sm"
                 >
-                  info@engitech.com
+                  info@eliteservice.co.in
                 </a>
               </div>
             </div>
@@ -129,7 +129,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-primary-foreground/60 text-sm mb-4 md:mb-0">
-              © {currentYear} EngiTech Solutions. All rights reserved.
+              © {currentYear} Elite Services. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <a 
